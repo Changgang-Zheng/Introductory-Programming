@@ -1,0 +1,4 @@
+﻿  源.cpp
+\\mac\home\documents\visual studio 2015\projects\zcg program 14 真心话大冒险  c++\zcg program 14 真心话大冒险  c++\源.cpp(11): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  ZCG program 14 真心话大冒险  C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 14 真心话大冒险  C++\Debug\ZCG program 14 真心话大冒险  C++.exe
+  ZCG program 14 真心话大冒险  C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 14 真心话大冒险  C++\Debug\ZCG program 14 真心话大冒险  C++.pdb (Full PDB)

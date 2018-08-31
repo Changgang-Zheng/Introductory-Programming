@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ZCG program 06 C++.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  源.cpp
+\\mac\home\documents\visual studio 2015\projects\zcg program 06 两数字区间内所有数字求和 c++\zcg program 06 c++\源.cpp(20): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  \\mac\home\documents\visual studio 2015\projects\zcg program 06 两数字区间内所有数字求和 c++\zcg program 06 c++\源.cpp(20): note: 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  ZCG program 06 C++.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\ZCG program 06 两数字区间内所有数字求和 C++\Debug\ZCG program 06 两数字区间内所有数字求和 C++.exe
+  ZCG program 06 C++.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\ZCG program 06 两数字区间内所有数字求和 C++\Debug\ZCG program 06 两数字区间内所有数字求和 C++.pdb (Full PDB)

@@ -1,0 +1,12 @@
+﻿  源.cpp
+\\mac\home\documents\visual studio 2015\projects\zcg program 08 猜数字游戏 c++\zcg program 08 猜数字游戏 c++\源.cpp(7): warning C4778: “scanf_s”: 格式字符串“%”未终止
+\\mac\home\documents\visual studio 2015\projects\zcg program 08 猜数字游戏 c++\zcg program 08 猜数字游戏 c++\源.cpp(7): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  \\mac\home\documents\visual studio 2015\projects\zcg program 08 猜数字游戏 c++\zcg program 08 猜数字游戏 c++\源.cpp(7): note: 占位符和其参数预计 0 可变参数，但提供的却是 2 参数
+\\mac\home\documents\visual studio 2015\projects\zcg program 08 猜数字游戏 c++\zcg program 08 猜数字游戏 c++\源.cpp(10): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  \\mac\home\documents\visual studio 2015\projects\zcg program 08 猜数字游戏 c++\zcg program 08 猜数字游戏 c++\源.cpp(10): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+\\mac\home\documents\visual studio 2015\projects\zcg program 08 猜数字游戏 c++\zcg program 08 猜数字游戏 c++\源.cpp(15): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+\\mac\home\documents\visual studio 2015\projects\zcg program 08 猜数字游戏 c++\zcg program 08 猜数字游戏 c++\源.cpp(15): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  \\mac\home\documents\visual studio 2015\projects\zcg program 08 猜数字游戏 c++\zcg program 08 猜数字游戏 c++\源.cpp(15): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+\\mac\home\documents\visual studio 2015\projects\zcg program 08 猜数字游戏 c++\zcg program 08 猜数字游戏 c++\源.cpp(3): warning C4101: “z”: 未引用的局部变量
+  ZCG program 08 猜数字游戏 C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 08 猜数字游戏 C++\Debug\ZCG program 08 猜数字游戏 C++.exe
+  ZCG program 08 猜数字游戏 C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 08 猜数字游戏 C++\Debug\ZCG program 08 猜数字游戏 C++.pdb (Full PDB)

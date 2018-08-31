@@ -1,0 +1,9 @@
+﻿  源.cpp
+\\mac\home\documents\visual studio 2015\projects\zcg program 37 array with fibonacci c++\zcg program 37 array with fibonacci c++\源.cpp(9): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  \\mac\home\documents\visual studio 2015\projects\zcg program 37 array with fibonacci c++\zcg program 37 array with fibonacci c++\源.cpp(9): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+\\mac\home\documents\visual studio 2015\projects\zcg program 37 array with fibonacci c++\zcg program 37 array with fibonacci c++\源.cpp(12): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  \\mac\home\documents\visual studio 2015\projects\zcg program 37 array with fibonacci c++\zcg program 37 array with fibonacci c++\源.cpp(12): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+\\mac\home\documents\visual studio 2015\projects\zcg program 37 array with fibonacci c++\zcg program 37 array with fibonacci c++\源.cpp(15): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  \\mac\home\documents\visual studio 2015\projects\zcg program 37 array with fibonacci c++\zcg program 37 array with fibonacci c++\源.cpp(15): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  ZCG program 37 array with fibonacci C++.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\ZCG program 37 array with fibonacci C++\Debug\ZCG program 37 array with fibonacci C++.exe
+  ZCG program 37 array with fibonacci C++.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\ZCG program 37 array with fibonacci C++\Debug\ZCG program 37 array with fibonacci C++.pdb (Full PDB)

@@ -1,0 +1,13 @@
+﻿  源.cpp
+\\mac\home\documents\visual studio 2015\projects\zcg program 38 任何函数的牛顿法则 c++\zcg program 38 任何函数的牛顿法则 c++\源.cpp(6): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+\\mac\home\documents\visual studio 2015\projects\zcg program 38 任何函数的牛顿法则 c++\zcg program 38 任何函数的牛顿法则 c++\源.cpp(13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+\\mac\home\documents\visual studio 2015\projects\zcg program 38 任何函数的牛顿法则 c++\zcg program 38 任何函数的牛顿法则 c++\源.cpp(26): warning C4477: “scanf_s”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 1 拥有了类型“int *”
+\\mac\home\documents\visual studio 2015\projects\zcg program 38 任何函数的牛顿法则 c++\zcg program 38 任何函数的牛顿法则 c++\源.cpp(36): warning C4477: “scanf_s”: 格式字符串“%f”需要类型“float *”的参数，但可变参数 1 拥有了类型“int *”
+\\mac\home\documents\visual studio 2015\projects\zcg program 38 任何函数的牛顿法则 c++\zcg program 38 任何函数的牛顿法则 c++\源.cpp(21): warning C4101: “k”: 未引用的局部变量
+\\mac\home\documents\visual studio 2015\projects\zcg program 38 任何函数的牛顿法则 c++\zcg program 38 任何函数的牛顿法则 c++\源.cpp(21): warning C4101: “yroot”: 未引用的局部变量
+\\mac\home\documents\visual studio 2015\projects\zcg program 38 任何函数的牛顿法则 c++\zcg program 38 任何函数的牛顿法则 c++\源.cpp(20): warning C4101: “root_2”: 未引用的局部变量
+\\mac\home\documents\visual studio 2015\projects\zcg program 38 任何函数的牛顿法则 c++\zcg program 38 任何函数的牛顿法则 c++\源.cpp(20): warning C4101: “denom”: 未引用的局部变量
+\\mac\home\documents\visual studio 2015\projects\zcg program 38 任何函数的牛顿法则 c++\zcg program 38 任何函数的牛顿法则 c++\源.cpp(20): warning C4101: “discrim”: 未引用的局部变量
+\\mac\home\documents\visual studio 2015\projects\zcg program 38 任何函数的牛顿法则 c++\zcg program 38 任何函数的牛顿法则 c++\源.cpp(20): warning C4101: “root_1”: 未引用的局部变量
+  ZCG program 38 任何函数的牛顿法则 C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 38 任何函数的牛顿法则 C++\Debug\ZCG program 38 任何函数的牛顿法则 C++.exe
+  ZCG program 38 任何函数的牛顿法则 C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 38 任何函数的牛顿法则 C++\Debug\ZCG program 38 任何函数的牛顿法则 C++.pdb (Full PDB)

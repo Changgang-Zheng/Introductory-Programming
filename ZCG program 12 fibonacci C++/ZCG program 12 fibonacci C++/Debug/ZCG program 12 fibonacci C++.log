@@ -1,0 +1,8 @@
+﻿  源.cpp
+\\mac\home\documents\visual studio 2015\projects\zcg program 12 fibonacci c++\zcg program 12 fibonacci c++\源.cpp(9): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  \\mac\home\documents\visual studio 2015\projects\zcg program 12 fibonacci c++\zcg program 12 fibonacci c++\源.cpp(9): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+\\mac\home\documents\visual studio 2015\projects\zcg program 12 fibonacci c++\zcg program 12 fibonacci c++\源.cpp(11): warning C4477: “printf”: 格式字符串“%11u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+  \\mac\home\documents\visual studio 2015\projects\zcg program 12 fibonacci c++\zcg program 12 fibonacci c++\源.cpp(11): note: 请考虑在格式字符串中使用“%llu”
+  \\mac\home\documents\visual studio 2015\projects\zcg program 12 fibonacci c++\zcg program 12 fibonacci c++\源.cpp(11): note: 请考虑在格式字符串中使用“%I64u”
+  ZCG program 12 fibonacci C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 12 fibonacci C++\Debug\ZCG program 12 fibonacci C++.exe
+  ZCG program 12 fibonacci C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 12 fibonacci C++\Debug\ZCG program 12 fibonacci C++.pdb (Full PDB)

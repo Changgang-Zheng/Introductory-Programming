@@ -1,0 +1,6 @@
+﻿  源.cpp
+\\mac\home\documents\visual studio 2015\projects\zcg program 13 factorial c++\zcg program 13 factorial c++\源.cpp(8): warning C4477: “printf”: 格式字符串“%11u”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“unsigned __int64”
+  \\mac\home\documents\visual studio 2015\projects\zcg program 13 factorial c++\zcg program 13 factorial c++\源.cpp(8): note: 请考虑在格式字符串中使用“%llu”
+  \\mac\home\documents\visual studio 2015\projects\zcg program 13 factorial c++\zcg program 13 factorial c++\源.cpp(8): note: 请考虑在格式字符串中使用“%I64u”
+  ZCG program 13 factorial C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 13 factorial C++\Debug\ZCG program 13 factorial C++.exe
+  ZCG program 13 factorial C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 13 factorial C++\Debug\ZCG program 13 factorial C++.pdb (Full PDB)

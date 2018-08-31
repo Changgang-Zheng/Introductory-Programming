@@ -1,0 +1,9 @@
+﻿  源.cpp
+\\mac\home\documents\visual studio 2015\projects\zcg program 18 finish the blank c++\zcg program 18 finish the blank c++\源.cpp(11): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  \\mac\home\documents\visual studio 2015\projects\zcg program 18 finish the blank c++\zcg program 18 finish the blank c++\源.cpp(11): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+\\mac\home\documents\visual studio 2015\projects\zcg program 18 finish the blank c++\zcg program 18 finish the blank c++\源.cpp(14): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  \\mac\home\documents\visual studio 2015\projects\zcg program 18 finish the blank c++\zcg program 18 finish the blank c++\源.cpp(14): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+\\mac\home\documents\visual studio 2015\projects\zcg program 18 finish the blank c++\zcg program 18 finish the blank c++\源.cpp(17): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  \\mac\home\documents\visual studio 2015\projects\zcg program 18 finish the blank c++\zcg program 18 finish the blank c++\源.cpp(17): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  ZCG program 18 finish the blank C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 18 finish the blank C++\Debug\ZCG program 18 finish the blank C++.exe
+  ZCG program 18 finish the blank C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 18 finish the blank C++\Debug\ZCG program 18 finish the blank C++.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  源.cpp
+\\mac\home\documents\visual studio 2015\projects\zcg program 05 c++\zcg program 05 c++\源.cpp(14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+\\mac\home\documents\visual studio 2015\projects\zcg program 05 c++\zcg program 05 c++\源.cpp(16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+\\mac\home\documents\visual studio 2015\projects\zcg program 05 c++\zcg program 05 c++\源.cpp(17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  ZCG program 05 C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 05 C++\Debug\ZCG program 05 C++.exe
+  ZCG program 05 C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 05 C++\Debug\ZCG program 05 C++.pdb (Full PDB)

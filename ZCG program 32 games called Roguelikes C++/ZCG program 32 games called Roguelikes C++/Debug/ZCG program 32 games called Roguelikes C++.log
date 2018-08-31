@@ -1,0 +1,16 @@
+﻿  源.cpp
+\\mac\home\documents\visual studio 2015\projects\zcg program 32 games called roguelikes c++\zcg program 32 games called roguelikes c++\源.cpp(5): error C2131: 表达式的计算结果不是常数
+  \\mac\home\documents\visual studio 2015\projects\zcg program 32 games called roguelikes c++\zcg program 32 games called roguelikes c++\源.cpp(5): note: 非常量参数或对非常量符号的引用导致了故障
+  \\mac\home\documents\visual studio 2015\projects\zcg program 32 games called roguelikes c++\zcg program 32 games called roguelikes c++\源.cpp(5): note: 请参见“high”的用法
+\\mac\home\documents\visual studio 2015\projects\zcg program 32 games called roguelikes c++\zcg program 32 games called roguelikes c++\源.cpp(8): error C3863: 不可指定数组类型“char [high][wide]”
+\\mac\home\documents\visual studio 2015\projects\zcg program 32 games called roguelikes c++\zcg program 32 games called roguelikes c++\源.cpp(13): error C3863: 不可指定数组类型“char [high][wide]”
+\\mac\home\documents\visual studio 2015\projects\zcg program 32 games called roguelikes c++\zcg program 32 games called roguelikes c++\源.cpp(17): error C3863: 不可指定数组类型“char [high][wide]”
+\\mac\home\documents\visual studio 2015\projects\zcg program 32 games called roguelikes c++\zcg program 32 games called roguelikes c++\源.cpp(21): error C3863: 不可指定数组类型“char [high][wide]”
+\\mac\home\documents\visual studio 2015\projects\zcg program 32 games called roguelikes c++\zcg program 32 games called roguelikes c++\源.cpp(25): error C3863: 不可指定数组类型“char [high][wide]”
+\\mac\home\documents\visual studio 2015\projects\zcg program 32 games called roguelikes c++\zcg program 32 games called roguelikes c++\源.cpp(29): error C3863: 不可指定数组类型“char [high][wide]”
+\\mac\home\documents\visual studio 2015\projects\zcg program 32 games called roguelikes c++\zcg program 32 games called roguelikes c++\源.cpp(34): error C3863: 不可指定数组类型“char [high][wide]”
+\\mac\home\documents\visual studio 2015\projects\zcg program 32 games called roguelikes c++\zcg program 32 games called roguelikes c++\源.cpp(35): error C3863: 不可指定数组类型“char [high][wide]”
+\\mac\home\documents\visual studio 2015\projects\zcg program 32 games called roguelikes c++\zcg program 32 games called roguelikes c++\源.cpp(36): error C3863: 不可指定数组类型“char [high][wide]”
+\\mac\home\documents\visual studio 2015\projects\zcg program 32 games called roguelikes c++\zcg program 32 games called roguelikes c++\源.cpp(37): error C3863: 不可指定数组类型“char [high][wide]”
+\\mac\home\documents\visual studio 2015\projects\zcg program 32 games called roguelikes c++\zcg program 32 games called roguelikes c++\源.cpp(38): error C3863: 不可指定数组类型“char [high][wide]”
+\\mac\home\documents\visual studio 2015\projects\zcg program 32 games called roguelikes c++\zcg program 32 games called roguelikes c++\源.cpp(41): warning C4477: “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“char (*)[wide]”

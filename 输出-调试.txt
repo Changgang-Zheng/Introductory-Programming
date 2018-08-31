@@ -1,0 +1,12 @@
+﻿“ConsoleApplication1.exe”(Win32): 已加载“\\Mac\Home\documents\visual studio 2015\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe”。已加载符号。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已卸载“C:\Windows\SysWOW64\kernel32.dll”
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。无法查找或打开 PDB 文件。
+“ConsoleApplication1.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。无法查找或打开 PDB 文件。
+线程 0x1620 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x1e24 已退出，返回值为 -1073741510 (0xc000013a)。
+线程 0x12d8 已退出，返回值为 -1073741510 (0xc000013a)。
+程序“[4348] ConsoleApplication1.exe”已退出，返回值为 -1073741510 (0xc000013a)。

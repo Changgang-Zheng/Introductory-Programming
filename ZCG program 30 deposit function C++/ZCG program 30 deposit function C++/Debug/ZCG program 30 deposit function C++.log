@@ -1,0 +1,7 @@
+﻿  源.cpp
+\\mac\home\documents\visual studio 2015\projects\zcg program 30 deposit function c++\zcg program 30 deposit function c++\源.cpp(7): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+\\mac\home\documents\visual studio 2015\projects\zcg program 30 deposit function c++\zcg program 30 deposit function c++\源.cpp(35): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+\\mac\home\documents\visual studio 2015\projects\zcg program 30 deposit function c++\zcg program 30 deposit function c++\源.cpp(82): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+\\mac\home\documents\visual studio 2015\projects\zcg program 30 deposit function c++\zcg program 30 deposit function c++\源.cpp(78): warning C4101: “all”: 未引用的局部变量
+  ZCG program 30 deposit function C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 30 deposit function C++\Debug\ZCG program 30 deposit function C++.exe
+  ZCG program 30 deposit function C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 30 deposit function C++\Debug\ZCG program 30 deposit function C++.pdb (Full PDB)

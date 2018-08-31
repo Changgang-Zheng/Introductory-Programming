@@ -1,0 +1,9 @@
+﻿  源.cpp
+\\mac\home\documents\visual studio 2015\projects\zcg program 24 pseudorandom c++\zcg program 24 pseudorandom c++\源.cpp(8): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+\\mac\home\documents\visual studio 2015\projects\zcg program 24 pseudorandom c++\zcg program 24 pseudorandom c++\源.cpp(16): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+\\mac\home\documents\visual studio 2015\projects\zcg program 24 pseudorandom c++\zcg program 24 pseudorandom c++\源.cpp(20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+\\mac\home\documents\visual studio 2015\projects\zcg program 24 pseudorandom c++\zcg program 24 pseudorandom c++\源.cpp(22): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+\\mac\home\documents\visual studio 2015\projects\zcg program 24 pseudorandom c++\zcg program 24 pseudorandom c++\源.cpp(13): warning C4101: “size”: 未引用的局部变量
+\\mac\home\documents\visual studio 2015\projects\zcg program 24 pseudorandom c++\zcg program 24 pseudorandom c++\源.cpp(25): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  ZCG program 24 pseudorandom C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 24 pseudorandom C++\Debug\ZCG program 24 pseudorandom C++.exe
+  ZCG program 24 pseudorandom C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 24 pseudorandom C++\Debug\ZCG program 24 pseudorandom C++.pdb (Full PDB)

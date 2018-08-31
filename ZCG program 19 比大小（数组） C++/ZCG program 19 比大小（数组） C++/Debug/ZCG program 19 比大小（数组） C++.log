@@ -1,0 +1,8 @@
+﻿  源.cpp
+\\mac\home\documents\visual studio 2015\projects\zcg program 19 比大小（数组） c++\zcg program 19 比大小（数组） c++\源.cpp(13): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  \\mac\home\documents\visual studio 2015\projects\zcg program 19 比大小（数组） c++\zcg program 19 比大小（数组） c++\源.cpp(13): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+\\mac\home\documents\visual studio 2015\projects\zcg program 19 比大小（数组） c++\zcg program 19 比大小（数组） c++\源.cpp(18): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  \\mac\home\documents\visual studio 2015\projects\zcg program 19 比大小（数组） c++\zcg program 19 比大小（数组） c++\源.cpp(18): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+\\mac\home\documents\visual studio 2015\projects\zcg program 19 比大小（数组） c++\zcg program 19 比大小（数组） c++\源.cpp(4): warning C4101: “scanfinput”: 未引用的局部变量
+  ZCG program 19 比大小（数组） C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 19 比大小（数组） C++\Debug\ZCG program 19 比大小（数组） C++.exe
+  ZCG program 19 比大小（数组） C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 19 比大小（数组） C++\Debug\ZCG program 19 比大小（数组） C++.pdb (Full PDB)

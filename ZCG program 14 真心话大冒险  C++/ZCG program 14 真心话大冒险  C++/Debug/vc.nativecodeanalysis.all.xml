@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>\\mac\home\documents\visual studio 2015\projects\zcg program 14 真心话大冒险  c++\zcg program 14 真心话大冒险  c++\</FILEPATH>
+      <FILENAME>源.cpp</FILENAME>
+      <LINE>38</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “getchar”。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>\\mac\home\documents\visual studio 2015\projects\zcg program 14 真心话大冒险  c++\zcg program 14 真心话大冒险  c++\</FILEPATH>
+      <FILENAME>源.cpp</FILENAME>
+      <LINE>39</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “getchar”。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>\\mac\home\documents\visual studio 2015\projects\zcg program 14 真心话大冒险  c++\zcg program 14 真心话大冒险  c++\</FILEPATH>
+      <FILENAME>源.cpp</FILENAME>
+      <LINE>40</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “getchar”。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>\\mac\home\documents\visual studio 2015\projects\zcg program 14 真心话大冒险  c++\zcg program 14 真心话大冒险  c++\</FILEPATH>
+      <FILENAME>源.cpp</FILENAME>
+      <LINE>41</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “getchar”。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>\\mac\home\documents\visual studio 2015\projects\zcg program 14 真心话大冒险  c++\zcg program 14 真心话大冒险  c++\</FILEPATH>
+      <FILENAME>源.cpp</FILENAME>
+      <LINE>45</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “getchar”。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>\\mac\home\documents\visual studio 2015\projects\zcg program 14 真心话大冒险  c++\zcg program 14 真心话大冒险  c++\</FILEPATH>
+      <FILENAME>源.cpp</FILENAME>
+      <LINE>46</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>返回值被忽略: “getchar”。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>7</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>

@@ -1,0 +1,9 @@
+﻿  源.cpp
+\\mac\home\documents\visual studio 2015\projects\zcg program 34 tic-tac-toe game c++\zcg program 34 tic-tac-toe game c++\源.cpp(72): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+\\mac\home\documents\visual studio 2015\projects\zcg program 34 tic-tac-toe game c++\zcg program 34 tic-tac-toe game c++\源.cpp(76): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+\\mac\home\documents\visual studio 2015\projects\zcg program 34 tic-tac-toe game c++\zcg program 34 tic-tac-toe game c++\源.cpp(80): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+\\mac\home\documents\visual studio 2015\projects\zcg program 34 tic-tac-toe game c++\zcg program 34 tic-tac-toe game c++\源.cpp(84): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+\\mac\home\documents\visual studio 2015\projects\zcg program 34 tic-tac-toe game c++\zcg program 34 tic-tac-toe game c++\源.cpp(100): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+\\mac\home\documents\visual studio 2015\projects\zcg program 34 tic-tac-toe game c++\zcg program 34 tic-tac-toe game c++\源.cpp(101): warning C4101: “num”: 未引用的局部变量
+  ZCG program 34 tic-tac-toe game C++.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\ZCG program 34 tic-tac-toe game C++\Debug\ZCG program 34 tic-tac-toe game C++.exe
+  ZCG program 34 tic-tac-toe game C++.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\ZCG program 34 tic-tac-toe game C++\Debug\ZCG program 34 tic-tac-toe game C++.pdb (Full PDB)

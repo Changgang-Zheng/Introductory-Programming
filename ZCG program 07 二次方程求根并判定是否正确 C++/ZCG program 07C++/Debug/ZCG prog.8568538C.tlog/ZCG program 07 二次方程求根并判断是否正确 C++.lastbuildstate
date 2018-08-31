@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Debug|Win32|\\Mac\Home\Documents\Visual Studio 2015\Projects\ZCG program 07 二次方程求根并判定是否正确 C++\|

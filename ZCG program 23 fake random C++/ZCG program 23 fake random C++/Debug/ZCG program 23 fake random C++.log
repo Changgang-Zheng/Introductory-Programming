@@ -1,0 +1,5 @@
+﻿  源.cpp
+\\mac\home\documents\visual studio 2015\projects\zcg program 23 fake random c++\zcg program 23 fake random c++\源.cpp(9): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+\\mac\home\documents\visual studio 2015\projects\zcg program 23 fake random c++\zcg program 23 fake random c++\源.cpp(12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  ZCG program 23 fake random C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 23 fake random C++\Debug\ZCG program 23 fake random C++.exe
+  ZCG program 23 fake random C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 23 fake random C++\Debug\ZCG program 23 fake random C++.pdb (Full PDB)

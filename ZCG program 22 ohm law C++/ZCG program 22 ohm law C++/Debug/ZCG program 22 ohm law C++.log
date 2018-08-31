@@ -1,0 +1,6 @@
+﻿  源.cpp
+\\mac\home\documents\visual studio 2015\projects\zcg program 22 ohm law c++\zcg program 22 ohm law c++\源.cpp(49): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+\\mac\home\documents\visual studio 2015\projects\zcg program 22 ohm law c++\zcg program 22 ohm law c++\源.cpp(41): warning C4474: scanf_s: 格式字符串中传递的参数太多
+  \\mac\home\documents\visual studio 2015\projects\zcg program 22 ohm law c++\zcg program 22 ohm law c++\源.cpp(41): note: 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  ZCG program 22 ohm law C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 22 ohm law C++\Debug\ZCG program 22 ohm law C++.exe
+  ZCG program 22 ohm law C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 22 ohm law C++\Debug\ZCG program 22 ohm law C++.pdb (Full PDB)

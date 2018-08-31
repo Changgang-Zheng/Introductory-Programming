@@ -1,0 +1,4 @@
+﻿  ZCG_structure_algorithm_2th_linked_list.cpp
+\\mac\home\documents\visual studio 2015\projects\zcg_structure_algorithm_2th_linked_list\zcg_structure_algorithm_2th_linked_list\zcg_structure_algorithm_2th_linked_list.cpp(209): warning C4477: “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 2 拥有了类型“elemType *”
+  ZCG_structure_algorithm_2th_linked_list.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\ZCG_structure_algorithm_2th_linked_list\Debug\ZCG_structure_algorithm_2th_linked_list.exe
+  ZCG_structure_algorithm_2th_linked_list.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\ZCG_structure_algorithm_2th_linked_list\Debug\ZCG_structure_algorithm_2th_linked_list.pdb (Partial PDB)

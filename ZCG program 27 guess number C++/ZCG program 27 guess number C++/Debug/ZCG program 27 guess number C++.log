@@ -1,0 +1,6 @@
+﻿  源.cpp
+\\mac\home\documents\visual studio 2015\projects\zcg program 27 guess number c++\zcg program 27 guess number c++\源.cpp(7): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+\\mac\home\documents\visual studio 2015\projects\zcg program 27 guess number c++\zcg program 27 guess number c++\源.cpp(35): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+\\mac\home\documents\visual studio 2015\projects\zcg program 27 guess number c++\zcg program 27 guess number c++\源.cpp(80): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  ZCG program 27 guess number C++.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\ZCG program 27 guess number C++\Debug\ZCG program 27 guess number C++.exe
+  ZCG program 27 guess number C++.vcxproj -> \\Mac\Home\Documents\Visual Studio 2015\Projects\ZCG program 27 guess number C++\Debug\ZCG program 27 guess number C++.pdb (Full PDB)

@@ -1,0 +1,4 @@
+﻿  源.cpp
+\\mac\home\documents\visual studio 2015\projects\zcg program 15 随机数 c++\zcg program 15 随机数 c++\源.cpp(6): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  ZCG program 15 随机数 C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 15 随机数 C++\Debug\ZCG program 15 随机数 C++.exe
+  ZCG program 15 随机数 C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 15 随机数 C++\Debug\ZCG program 15 随机数 C++.pdb (Full PDB)

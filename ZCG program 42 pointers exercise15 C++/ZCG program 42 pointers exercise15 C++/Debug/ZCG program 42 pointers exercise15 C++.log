@@ -1,0 +1,4 @@
+﻿  源.cpp
+\\mac\home\documents\visual studio 2015\projects\zcg program 42 pointers exercise15 c++\zcg program 42 pointers exercise15 c++\源.cpp(208): warning C4244: “初始化”: 从“time_t”转换到“long”，可能丢失数据
+  ZCG program 42 pointers exercise15 C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 42 pointers exercise15 C++\Debug\ZCG program 42 pointers exercise15 C++.exe
+  ZCG program 42 pointers exercise15 C++.vcxproj -> \\mac\home\documents\visual studio 2015\Projects\ZCG program 42 pointers exercise15 C++\Debug\ZCG program 42 pointers exercise15 C++.pdb (Full PDB)
